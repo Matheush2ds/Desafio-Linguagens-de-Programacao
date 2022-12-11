@@ -1,7 +1,7 @@
 # Desafio-Linguagens-de-Programacao
-Desafio de Linguagens de Programação (Básico)
+Desafio de Linguagens de Programação: Java, C#, JS, Python, Kotlin (Básico)
 
-Desafio
+## Desafio
 Faça um programa que calcule e imprima o salário a ser transferido para um funcionário.
 
 Para realizar o calculo receba o valor bruto do salário e o adicional dos benefícios.
