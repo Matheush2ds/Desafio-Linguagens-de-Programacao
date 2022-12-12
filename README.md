@@ -1,5 +1,5 @@
-# Desafio-Linguagens-de-Programacao
-Desafio de Linguagens de Programação: Java, C#, JS, Python, Kotlin (Básico)
+## Trainee Grupo Carrefour Brasil
+Desafio de Linguagens de Programação Calculo de salario com: Java, C#, JS, Python, Kotlin (Básico)
 
 ## Desafio
 Faça um programa que calcule e imprima o salário a ser transferido para um funcionário.
